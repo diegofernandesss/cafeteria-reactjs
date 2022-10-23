@@ -1,6 +1,6 @@
 # Projeto cafeteria
 
-<h2>Inicialização do sistema</h2>
+<h2>Inicialização da Aplicação</h2>
 
 ```bash
 yarn start
